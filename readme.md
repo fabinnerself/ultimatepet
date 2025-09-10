@@ -11,6 +11,14 @@ Backend para la gestión de mascotas, desarrollado con las siguientes tecnologí
 - MongoDB (Mongoose)
 - Postman (pruebas)
 
+##  🔗 Rutas disponibles
+
+| Recurso | URL Base |
+|---------|----------|
+| Mascotas  | [https://ultimatepet.vercel.app/api/v1/pets/](https://ultimatepet.vercel.app/api/v1/pets/) |
+
+
+
 ## 🌟 Características
 
 - Operaciones **CRUD** completas para la entidad **Mascotas**.
